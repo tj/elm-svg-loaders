@@ -38,7 +38,7 @@ type alias Model =
 
 init : List Option -> Model
 init options =
-    List.foldl (\f -> f)
+    List.foldl (<|)
         { size = 32
         , color = "black"
         }
