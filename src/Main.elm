@@ -12,28 +12,28 @@ main =
         , style "gap" "32px"
         ]
         [ viewLoader "puff"
-            [ puff [ color "#000", size 32 ]
-            , puff [ color "#000", size 24 ]
+            [ puff [ color "hsl(212, 96%, 56%)", size 32 ]
+            , puff [ color "hsl(170, 64%, 37%)", size 24 ]
             , puff [ color "#000", size 16 ]
             ]
         , viewLoader "audio"
-            [ audio [ color "#000", size 32 ]
-            , audio [ color "#000", size 24 ]
+            [ audio [ color "hsl(212, 96%, 56%)", size 32 ]
+            , audio [ color "hsl(170, 64%, 37%)", size 24 ]
             , audio [ color "#000", size 16 ]
             ]
         , viewLoader "bars"
-            [ bars [ color "#000", size 32 ]
-            , bars [ color "#000", size 24 ]
+            [ bars [ color "hsl(212, 96%, 56%)", size 32 ]
+            , bars [ color "hsl(170, 64%, 37%)", size 24 ]
             , bars [ color "#000", size 16 ]
             ]
         , viewLoader "grid"
-            [ grid [ color "#000", size 32 ]
-            , grid [ color "#000", size 24 ]
+            [ grid [ color "hsl(212, 96%, 56%)", size 32 ]
+            , grid [ color "hsl(170, 64%, 37%)", size 24 ]
             , grid [ color "#000", size 16 ]
             ]
         , viewLoader "rings"
-            [ rings [ color "#000", size 32 ]
-            , rings [ color "#000", size 24 ]
+            [ rings [ color "hsl(212, 96%, 56%)", size 32 ]
+            , rings [ color "hsl(170, 64%, 37%)", size 24 ]
             , rings [ color "#000", size 16 ]
             ]
         ]
