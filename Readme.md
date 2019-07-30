@@ -3,6 +3,4 @@
 
 SVG loading indicators for Elm, by [Sam Herbert](https://github.com/SamHerbert/SVG-Loaders).
 
-![](https://uc37b3bbdec9f024e7dbbedc32f0.previews.dropboxusercontent.com/p/thumb/AAf_rPDb5-D2BMx01Y7mG6CHCWF7sMOGNLSoTc79y0GbGaP8CfQEJ_kzIiFIxOiXCgEoEfEhPup-Xunyo-DWrVnUashwa6PVGc94R-FNEudatkWbuXdCxAZ0g5WMn-yf8hRCy2nbBaFiwF6YmGhC5ltONm_pSeHODXaD_PsDp2nemDS5rM5VpPgH9YoiZCCE2RDmj1TluTpMhyD2xTWbcJvz1DyxqOj4VpDbVBcChquA9EHrwzLrP0VtiOmKOuhZY_eq8d3u2Gqu2C6GcQboG33grazDo0wHQXaNjx-YBskVjoZ7zAupTKUzvwQR8OKE6eaQ9iRPHoloaIqWR5SeSTST3Ii52RMGcQndmQIUzG2HkDdhxDP5vG76QHgcjxVjSBWGtl12DFK98FebF-b7eModHSDUeC8Fmbps7ookJX-nRUKR6XvF1sVwLShZvNyrxIKgdt5EItP5CJFiNFYj84v_/p.png?fv_content=true&size_mode=5)
-
-Sponsored by [Apex Software](https://apex.sh).
+<a href="https://apex.sh"><img src="http://tjholowaychuk.com:6000/svg/sponsor"></a>
